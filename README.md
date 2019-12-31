@@ -44,6 +44,7 @@
 			<input type="number" name="userurl" required="required"></p>
 		<p>密&nbsp;&nbsp;&nbsp;&nbsp;码：
 			<input type="password" name="password"  required minlength="8"></p>
+			（随便填）
 		<p>输入日期：
 		<input type="date" required="required">
 		</p>
