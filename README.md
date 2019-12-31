@@ -22,7 +22,7 @@
 </head>
 
 <body>
-	<form action="11.html" method="GET">
+	<form action="https://gqd000.github.io/Fun-Test/" method="GET">
 		<h1>用户反馈界面</h1>
 		<p>姓&nbsp;&nbsp;&nbsp;&nbsp;名：
 			<input type="text" name="user" size="12" required maxlength="20"></p>
