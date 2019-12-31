@@ -22,7 +22,7 @@
 </head>
 
 <body>
-	<form action="https://gqd000.github.io/Fun-Test/" method="GET">
+	<form action="11.html" method="GET">
 		<h1>用户反馈界面</h1>
 		<p>姓&nbsp;&nbsp;&nbsp;&nbsp;名：
 			<input type="text" name="user" size="12" required maxlength="20"></p>
@@ -56,7 +56,7 @@
 		<input type="submit" value="登录">
 		<input type="reset" name="清除">
 		<br>
-		<p><audio src="music/幻昼.mp3" controls autoplay></audio></p>
+		<p><audio src="http://antiserver.kuwo.cn/anti.s?format=mp3|aac&rid=7069438&type=convert_url&response=res" controls autoplay></audio></p>
 	</form>
 </body>
 
